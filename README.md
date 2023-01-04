@@ -18,6 +18,7 @@ println('你好，世界！')
 v run hello-world.v
 ```
 * 连接数据库：sqlite
+#### 默认情况下，很可能会遇到类似这样的报错https://github.com/vlang/v/issues/7034，解决方法在issue的最下面，为了方便大家学习，我在这里直接整理出来了，按照下面的方法进行操作就行
 ```
 从官网https://www.sqlite.org/download.html下载sqlite的源码压缩包，并解压到v\thirdparty\sqlite\文件夹下即可
 ```
