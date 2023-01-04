@@ -17,3 +17,7 @@ println('你好，世界！')
 二、将上面的代码保存为.v后缀结尾的文件，如：hello-world.v，然后执行：
 v run hello-world.v
 ```
+* 连接数据库：sqlite
+```
+从官网https://www.sqlite.org/download.html下载sqlite的源码压缩包，并解压到v\thirdparty\sqlite\文件夹下即可
+```
